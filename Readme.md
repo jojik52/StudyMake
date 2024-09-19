@@ -1,6 +1,6 @@
 Simple project for study makefiles
 =====================
-
+EDIT BY JIJA
 Примеры для обучения использованию make-файлов
 
 _example-1_
